@@ -1,0 +1,355 @@
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\bin\x86\Release\LMS.exe.config
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\bin\x86\Release\LMS.exe
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\bin\x86\Release\LMS.pdb
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\obj\x86\Release\LMS.About.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\obj\x86\Release\LMS.AddCustomer.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\obj\x86\Release\LMS.CustomerDetail.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\obj\x86\Release\LMS.AllRented.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.Cache
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\obj\x86\Release\LMS.exe
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\obj\x86\Release\LMS.pdb
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\bin\x86\Release\MetroFramework.dll
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\Library management System\LMS\LMS\obj\x86\Release\LMS.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\LMS.exe.config
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\LMS.exe
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\LMS.pdb
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\MetroFramework.dll
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.AddBorrower.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.BorrowerDetail.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.Cache
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.exe
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.pdb
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\LMS.exe.config
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\LMS.exe
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\LMS.pdb
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\MetroFramework.dll
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.vbprojResolveAssemblyReference.cache
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.AddBorrower.resources
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.BorrowerDetail.resources
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.AllRented.resources
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.Cache
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.exe
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.pdb
+C:\Users\JUSIP\Desktop\VisualBasic.net\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm.resources
+C:\Users\Lenovo G40\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.AllBorrowed.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\LMS.exe.config
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\LMS.exe
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\LMS.pdb
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\MetroFramework.dll
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.vbprojResolveAssemblyReference.cache
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.AddBorrower.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.BorrowerDetail.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.AllBorrowed.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.Cache
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.exe
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.pdb
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.Archive.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\bin\x86\Release\LMS.exe.config
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\bin\x86\Release\LMS.exe
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\bin\x86\Release\LMS.pdb
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\bin\x86\Release\MetroFramework.dll
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.vbprojResolveAssemblyReference.cache
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.AddBorrower.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.Archive.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.BorrowerDetail.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.LoginForm.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.AllBorrowed.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.Cache
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.exe
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\Refference\LMS - 11\LMS\LMS\obj\x86\Release\LMS.pdb
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\bin\x86\Release\LMS.exe.config
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\bin\x86\Release\LMS.exe
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\bin\x86\Release\LMS.pdb
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\bin\x86\Release\MetroFramework.dll
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.vbprojResolveAssemblyReference.cache
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.AddBorrower.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.Archive.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.BorrowerDetail.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.LoginForm.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.AllBorrowed.resources
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.Cache
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.exe
+C:\Users\OsorioV\Desktop\Thesis\Library System Using Barcode Technology\LMS - 11\LMS\LMS\obj\x86\Release\LMS.pdb
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\LMS.exe.config
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\LMS.exe
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\LMS.pdb
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\MetroFramework.dll
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.AddBorrower.resources
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.Archive.resources
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.BorrowerDetail.resources
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm.resources
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.AllBorrowed.resources
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.Cache
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.exe
+C:\Users\Lenovo g40-70\Desktop\Thesis\Library System Using Barcode Technology\LMS\LMS\LMS\obj\x86\Release\LMS.pdb
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\bin\x86\Release\LMS.exe.config
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\bin\x86\Release\LMS.exe
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\bin\x86\Release\LMS.pdb
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\bin\x86\Release\MetroFramework.dll
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.AddBorrower.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.Archive.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.BorrowerDetail.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.AllBorrowed.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.Cache
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.exe
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.pdb
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.LibraryMainForm.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.AttendanceMainForm.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.SearchMainForm.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 2\LMS\LMS\LMS\obj\x86\Release\LMS.AttendanceMainForm2.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\LMS.exe.config
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\LMS.exe
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\LMS.pdb
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\MetroFramework.dll
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.AddBorrower.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.Archive.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.AttendanceMainForm.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.AttendanceMainForm2.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.BorrowerDetail.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.LibraryMainForm.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.AllBorrowed.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.SearchMainForm.resources
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.Cache
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.exe
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.pdb
+C:\Users\Lenovo G40-70\Desktop\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.LogBook.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\LMS.exe.config
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\LMS.exe
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\LMS.pdb
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\MetroFramework.dll
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.vbprojResolveAssemblyReference.cache
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.AddBorrower.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.Archive.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.AttendanceMainForm.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.AttendanceMainForm2.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.BorrowerDetail.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.LibraryMainForm.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.LogBook.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.AllBorrowed.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.SearchMainForm.resources
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.Cache
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.exe
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.pdb
+C:\Users\G4070-Lenovo\Desktop\Thesis\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm2.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\LMS.exe.config
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\LMS.exe
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\LMS.pdb
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Design.dll
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\MetroFramework.dll
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Fonts.dll
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.vbprojAssemblyReference.cache
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.AddBorrower.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.Archive.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.AttendanceMainForm.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.AttendanceMainForm2.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.BorrowerDetail.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.LibraryMainForm.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.LogBook.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm2.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.AllBorrowed.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.SearchMainForm.resources
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.cache
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.CoreCompileInputs.cache
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.CopyComplete
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.exe
+D:\Library-May-2019\Library System Using Barcode Technology 3\LMS\LMS\LMS\obj\x86\Release\LMS.pdb
+D:\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\LMS.exe.config
+D:\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\LMS.exe
+D:\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\LMS.pdb
+D:\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Design.dll
+D:\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\MetroFramework.dll
+D:\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Fonts.dll
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.vbprojAssemblyReference.cache
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.AddBorrower.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.Archive.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.AttendanceMainForm.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.AttendanceMainForm2.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.BorrowerDetail.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.LibraryMainForm.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.LogBook.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm2.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.AllBorrowed.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.SearchMainForm.resources
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.cache
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.CoreCompileInputs.cache
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.CopyComplete
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.exe
+D:\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.pdb
+Z:\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.vbprojAssemblyReference.cache
+Z:\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.exe
+Z:\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.pdb
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\LMS.exe.config
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\LMS.exe
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Design.dll
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\MetroFramework.dll
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Fonts.dll
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.vbprojAssemblyReference.cache
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.AddBorrower.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.Archive.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.AttendanceMainForm.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.AttendanceMainForm2.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.BorrowerDetail.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.LibraryMainForm.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.LogBook.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm2.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.AllBorrowed.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.SearchMainForm.resources
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.cache
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.CoreCompileInputs.cache
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.CopyComplete
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.exe
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.pdb
+Y:\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\LMS.pdb
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\LMS.exe.config
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\LMS.exe
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\LMS.pdb
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Design.dll
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\MetroFramework.dll
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\bin\x86\Release\MetroFramework.Fonts.dll
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.vbprojAssemblyReference.cache
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.AddBooks.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.AddBorrower.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.Archive.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.AttendanceMainForm.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.AttendanceMainForm2.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.BookDetail.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.BorrowerDetail.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.GroupID.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.IssueBook.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.LibraryMainForm.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.LogBook.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.LoginForm2.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.MainForm.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.Resources.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.ReturnBook.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.AllBorrowed.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.SearchMainForm.resources
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.GenerateResource.cache
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.CoreCompileInputs.cache
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.vbproj.CopyComplete
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.exe
+\\AKAGI-PI\akagi-home\exhdd\Files\school-stuff\AMA\Library-May-2019\LMS\LMS\LMS\obj\x86\Release\LMS.pdb
